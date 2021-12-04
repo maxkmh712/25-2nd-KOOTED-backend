@@ -67,8 +67,6 @@
 - PostsView : `GET` /posts
 - PostsDetailView : `GET` /posts/<int:post_id>
 - BookMarkView : `POST`, `DELETE` /posts/bookmarks
-
-(수정중)
 - ResumeView : `POST`, `GET`, `DELETE`, `PUT`
 - AllResumeView : `GET` 
 - ApplicationView : `POST` 
